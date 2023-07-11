@@ -1,0 +1,3658 @@
+id: 98d31be364d04039838a040ce738032c
+annotation_type: Pagination
+revision: '00001'
+annotations:
+  92e107d227bb4665851a808acf09095a:
+    span:
+      start: 0
+      end: 629
+    imgnum: 1
+    reference: 24960001.tif
+  d60282d604604802b5b53e8e86951a3e:
+    span:
+      start: 630
+      end: 1084
+    imgnum: 2
+    reference: 24960002.tif
+  f2332ba0b68b4189998f01d4cbd77048:
+    span:
+      start: 1085
+      end: 1123
+    imgnum: 3
+    reference: 24960003.tif
+  325af223935546dc91c032c22c18fe94:
+    span:
+      start: 1124
+      end: 1673
+    imgnum: 4
+    reference: 24960004.tif
+  573d690ac7dc4de5a5ebd62bd28d5563:
+    span:
+      start: 1674
+      end: 2361
+    imgnum: 5
+    reference: 24960005.tif
+  4e3fbd2293dd422384214b6960e948b1:
+    span:
+      start: 2362
+      end: 3324
+    imgnum: 6
+    reference: 24960006.tif
+  4e96cb278a42462ebb715f3137725c6b:
+    span:
+      start: 3325
+      end: 4310
+    imgnum: 7
+    reference: 24960007.tif
+  29f495aec4fe4bcfb038018a43732824:
+    span:
+      start: 4311
+      end: 4621
+    imgnum: 8
+    reference: 24960008.tif
+  b49427a1cd4d458391d1fd79c834f3b3:
+    span:
+      start: 4622
+      end: 5649
+    imgnum: 9
+    reference: 24960009.tif
+  4c98421663a443f7b69336a5437dc7af:
+    span:
+      start: 5650
+      end: 6673
+    imgnum: 10
+    reference: 24960010.tif
+  95213a815a764b4b90ad2791fd3f7eab:
+    span:
+      start: 6674
+      end: 7675
+    imgnum: 11
+    reference: 24960011.tif
+  f54e37bdb39848b6ba3fd77dce43d4ff:
+    span:
+      start: 7676
+      end: 8704
+    imgnum: 12
+    reference: 24960012.tif
+  d5035fb7dd75481fba6aeee82536e900:
+    span:
+      start: 8705
+      end: 9781
+    imgnum: 13
+    reference: 24960013.tif
+  71e9d248b3b247a1abecb359c47cf9f8:
+    span:
+      start: 9782
+      end: 10792
+    imgnum: 14
+    reference: 24960014.tif
+  3b00abde37ec430ba682cd2503e9e3bc:
+    span:
+      start: 10793
+      end: 11836
+    imgnum: 15
+    reference: 24960015.tif
+  6b7fb02188bf4267afef6355fe8074ec:
+    span:
+      start: 11837
+      end: 12822
+    imgnum: 16
+    reference: 24960016.tif
+  59ae7bf44ad04436a7d7063ff7638b0a:
+    span:
+      start: 12823
+      end: 13869
+    imgnum: 17
+    reference: 24960017.tif
+  33f1d281308c4709b3064e52a61dc5cd:
+    span:
+      start: 13870
+      end: 14895
+    imgnum: 18
+    reference: 24960018.tif
+  4481255415bd4ff8824b82be324cdc59:
+    span:
+      start: 14896
+      end: 15920
+    imgnum: 19
+    reference: 24960019.tif
+  a678bfcbcfb44fad9fd387520e46c8e5:
+    span:
+      start: 15921
+      end: 16928
+    imgnum: 20
+    reference: 24960020.tif
+  37065f440f624c05a5864b1d36d07656:
+    span:
+      start: 16929
+      end: 17935
+    imgnum: 21
+    reference: 24960021.tif
+  4ad0c56fe5ee4689a904b34a95f2252d:
+    span:
+      start: 17936
+      end: 18959
+    imgnum: 22
+    reference: 24960022.tif
+  017432de1d2d4a839b51c070e5d3d264:
+    span:
+      start: 18960
+      end: 19938
+    imgnum: 23
+    reference: 24960023.tif
+  128333db272447dfa53cb11cb8510e53:
+    span:
+      start: 19939
+      end: 20919
+    imgnum: 24
+    reference: 24960024.tif
+  b09ea09c4f8f446892cedebd3496e695:
+    span:
+      start: 20920
+      end: 21898
+    imgnum: 25
+    reference: 24960025.tif
+  a7f58924a0354eb2a200483723013748:
+    span:
+      start: 21899
+      end: 22975
+    imgnum: 26
+    reference: 24960026.tif
+  7e03d4ec21e64fc0b25617d68d736436:
+    span:
+      start: 22976
+      end: 24100
+    imgnum: 27
+    reference: 24960027.tif
+  2ca8a8e7bd1946099495fad250b8b328:
+    span:
+      start: 24101
+      end: 25217
+    imgnum: 28
+    reference: 24960028.tif
+  6f38d645deec4e2cbda1faaf1ebacd22:
+    span:
+      start: 25218
+      end: 26249
+    imgnum: 29
+    reference: 24960029.tif
+  2cd10f2897ed472bad4130892c23c0d2:
+    span:
+      start: 26250
+      end: 27311
+    imgnum: 30
+    reference: 24960030.tif
+  7131f7a715ad490a8502308f7c37df20:
+    span:
+      start: 27312
+      end: 28327
+    imgnum: 31
+    reference: 24960031.tif
+  b601899ca2cb4b53919c2aad7dcfbb5f:
+    span:
+      start: 28328
+      end: 29363
+    imgnum: 32
+    reference: 24960032.tif
+  124018c4a4374e649e050dc0314a22a9:
+    span:
+      start: 29364
+      end: 30367
+    imgnum: 33
+    reference: 24960033.tif
+  ea7413a8022f46feb39ea3cc89b2490b:
+    span:
+      start: 30368
+      end: 31400
+    imgnum: 34
+    reference: 24960034.tif
+  6576403b60b04abaa4aa332936506d3f:
+    span:
+      start: 31401
+      end: 32427
+    imgnum: 35
+    reference: 24960035.tif
+  8194eb101c624f8886f70dc6fb604b1b:
+    span:
+      start: 32428
+      end: 33441
+    imgnum: 36
+    reference: 24960036.tif
+  628ff909ecee4757a9dbd95b85c86aef:
+    span:
+      start: 33442
+      end: 34480
+    imgnum: 37
+    reference: 24960037.tif
+  6beb77b2f1b249b1bcae93b8ab88a9b6:
+    span:
+      start: 34481
+      end: 35480
+    imgnum: 38
+    reference: 24960038.tif
+  38d9fe57eef24d26844de3d5581b506f:
+    span:
+      start: 35481
+      end: 36571
+    imgnum: 39
+    reference: 24960039.tif
+  7b78022dc8fc41d7b174792d9fae7d9e:
+    span:
+      start: 36572
+      end: 37674
+    imgnum: 40
+    reference: 24960040.tif
+  9341d019749140208f448ff7e3e5835a:
+    span:
+      start: 37675
+      end: 38733
+    imgnum: 41
+    reference: 24960041.tif
+  ae07fc0dc32a40249cb9b0338ac39808:
+    span:
+      start: 38734
+      end: 39739
+    imgnum: 42
+    reference: 24960042.tif
+  1d55d3c607f4455282ef5747ae2d5633:
+    span:
+      start: 39740
+      end: 40716
+    imgnum: 43
+    reference: 24960043.tif
+  59ad6f7dd16742d38fb0be8066226768:
+    span:
+      start: 40717
+      end: 41778
+    imgnum: 44
+    reference: 24960044.tif
+  5079117d44d64bf7916b547a63925cd3:
+    span:
+      start: 41779
+      end: 42812
+    imgnum: 45
+    reference: 24960045.tif
+  38893f61f8404b3db532b0ca15750ff2:
+    span:
+      start: 42813
+      end: 43890
+    imgnum: 46
+    reference: 24960046.tif
+  f123dc5f6072409a9089157067d550a6:
+    span:
+      start: 43891
+      end: 44986
+    imgnum: 47
+    reference: 24960047.tif
+  19e415e329664d98a98985b969bab944:
+    span:
+      start: 44987
+      end: 46053
+    imgnum: 48
+    reference: 24960048.tif
+  2c39ae5f5c7c401a81134ea1bf7b7422:
+    span:
+      start: 46054
+      end: 47089
+    imgnum: 49
+    reference: 24960049.tif
+  85c8e5e8344b44839cbb0fb6787c0e8b:
+    span:
+      start: 47090
+      end: 48113
+    imgnum: 50
+    reference: 24960050.tif
+  285e8dac7bf94b15b43ae06fdf1cf946:
+    span:
+      start: 48114
+      end: 49158
+    imgnum: 51
+    reference: 24960051.tif
+  1c6add1bd94c474e9e6149a24b618495:
+    span:
+      start: 49159
+      end: 50235
+    imgnum: 52
+    reference: 24960052.tif
+  5d588a52674a4c1f814b62cb5b0895cc:
+    span:
+      start: 50236
+      end: 51285
+    imgnum: 53
+    reference: 24960053.tif
+  0dc564860ae14186bc54efe01acc8edd:
+    span:
+      start: 51286
+      end: 52338
+    imgnum: 54
+    reference: 24960054.tif
+  2c33107fd5774e5d96d3d899643021dc:
+    span:
+      start: 52339
+      end: 53387
+    imgnum: 55
+    reference: 24960055.tif
+  0ca172b2fea744bcbf12596dbe4dc4e6:
+    span:
+      start: 53388
+      end: 54438
+    imgnum: 56
+    reference: 24960056.tif
+  282fd2a28cab4bbf9b99d7bc030a0b61:
+    span:
+      start: 54439
+      end: 55511
+    imgnum: 57
+    reference: 24960057.tif
+  4ddf6fbe1f3742809b270d18bda3cec5:
+    span:
+      start: 55512
+      end: 56632
+    imgnum: 58
+    reference: 24960058.tif
+  86dfe82982604c10b0a9ac837d0a4d89:
+    span:
+      start: 56633
+      end: 57790
+    imgnum: 59
+    reference: 24960059.tif
+  bcd616c2bc244df29be96ac75090df68:
+    span:
+      start: 57791
+      end: 58827
+    imgnum: 60
+    reference: 24960060.tif
+  f1f840bc7efa44279331aa42680e8452:
+    span:
+      start: 58828
+      end: 59858
+    imgnum: 61
+    reference: 24960061.tif
+  4c64541faf84449a949d243caf0481b3:
+    span:
+      start: 59859
+      end: 60942
+    imgnum: 62
+    reference: 24960062.tif
+  4ab38bd4469c498689da597df1a3cc80:
+    span:
+      start: 60943
+      end: 61997
+    imgnum: 63
+    reference: 24960063.tif
+  3e9775ed4dfe4c0bb02a848b607b5391:
+    span:
+      start: 61998
+      end: 63027
+    imgnum: 64
+    reference: 24960064.tif
+  602838004b5c40f9af46729ce845babc:
+    span:
+      start: 63028
+      end: 64058
+    imgnum: 65
+    reference: 24960065.tif
+  32cfdca55b5f4bd6a6f1d8f312767d13:
+    span:
+      start: 64059
+      end: 65087
+    imgnum: 66
+    reference: 24960066.tif
+  0186dc11c6b84617bfffc6581dead70f:
+    span:
+      start: 65088
+      end: 66143
+    imgnum: 67
+    reference: 24960067.tif
+  6dc43ed601ca410f9b68e553d1470036:
+    span:
+      start: 66144
+      end: 67221
+    imgnum: 68
+    reference: 24960068.tif
+  8eb3c37637f245cb9096192abae71c73:
+    span:
+      start: 67222
+      end: 68301
+    imgnum: 69
+    reference: 24960069.tif
+  9a14a60ade5f4c158d5987e072eda967:
+    span:
+      start: 68302
+      end: 69472
+    imgnum: 70
+    reference: 24960070.tif
+  85e0ee307a35414593ce565da2577d67:
+    span:
+      start: 69473
+      end: 70538
+    imgnum: 71
+    reference: 24960071.tif
+  10149ec8b5054a83b473b76e9cd33c86:
+    span:
+      start: 70539
+      end: 71640
+    imgnum: 72
+    reference: 24960072.tif
+  1d87db51086c44e2ae49a9bedb6e1132:
+    span:
+      start: 71641
+      end: 72602
+    imgnum: 73
+    reference: 24960073.tif
+  96f682170bd5400ca8d01260a63d98aa:
+    span:
+      start: 72603
+      end: 73532
+    imgnum: 74
+    reference: 24960074.tif
+  ab88ce895b904848b3bd1360f64c8815:
+    span:
+      start: 73533
+      end: 74460
+    imgnum: 75
+    reference: 24960075.tif
+  de12a853cfb74688bd36cfdda8697b20:
+    span:
+      start: 74461
+      end: 75376
+    imgnum: 76
+    reference: 24960076.tif
+  d80781b35d1e41d691babfbb0ec15c1b:
+    span:
+      start: 75377
+      end: 76203
+    imgnum: 77
+    reference: 24960077.tif
+  b96d6d5d32bb438c902d605b26a85edc:
+    span:
+      start: 76204
+      end: 76968
+    imgnum: 78
+    reference: 24960078.tif
+  495cf00781a64aee8b88336de4f10216:
+    span:
+      start: 76969
+      end: 77815
+    imgnum: 79
+    reference: 24960079.tif
+  4ab145819a0848f7a22e447f812cb496:
+    span:
+      start: 77816
+      end: 78664
+    imgnum: 80
+    reference: 24960080.tif
+  675a49a7cded4364b4b0008a06a9ad8b:
+    span:
+      start: 78665
+      end: 79707
+    imgnum: 81
+    reference: 24960081.tif
+  3cf7783abd5e4368958503b2d5caf7ee:
+    span:
+      start: 79708
+      end: 80804
+    imgnum: 82
+    reference: 24960082.tif
+  a2946b4e9e1c4d3b82d171c0dc33d19d:
+    span:
+      start: 80805
+      end: 81840
+    imgnum: 83
+    reference: 24960083.tif
+  c54902a9f2f0488b9f9e743a34c59984:
+    span:
+      start: 81841
+      end: 82896
+    imgnum: 84
+    reference: 24960084.tif
+  de7e3fbab4114e5e84fad042d56301f1:
+    span:
+      start: 82897
+      end: 83990
+    imgnum: 85
+    reference: 24960085.tif
+  41714983c0f8477ca649c74dfbe47595:
+    span:
+      start: 83991
+      end: 84999
+    imgnum: 86
+    reference: 24960086.tif
+  650d2a5425d74b3da5a9884bedc3b2c0:
+    span:
+      start: 85000
+      end: 86064
+    imgnum: 87
+    reference: 24960087.tif
+  023f27c0f54242f0a507900869192889:
+    span:
+      start: 86065
+      end: 87104
+    imgnum: 88
+    reference: 24960088.tif
+  2a6b544ca4154d1aa8584f7e12c17ea9:
+    span:
+      start: 87105
+      end: 88183
+    imgnum: 89
+    reference: 24960089.tif
+  b881553c04864a028fc7ecf808010d82:
+    span:
+      start: 88184
+      end: 89337
+    imgnum: 90
+    reference: 24960090.tif
+  8e1d688e5d014e36a977cf7c4c9c5db3:
+    span:
+      start: 89338
+      end: 90428
+    imgnum: 91
+    reference: 24960091.tif
+  8fe2afea92fc442d85856d049748e823:
+    span:
+      start: 90429
+      end: 91480
+    imgnum: 92
+    reference: 24960092.tif
+  66e5c073ccaa4232b63e9123e4690cd7:
+    span:
+      start: 91481
+      end: 92544
+    imgnum: 93
+    reference: 24960093.tif
+  39fc53767f004525a33d2413496474d8:
+    span:
+      start: 92545
+      end: 93538
+    imgnum: 94
+    reference: 24960094.tif
+  367c351ca2214cfbbebcbc0b7645db6e:
+    span:
+      start: 93539
+      end: 94543
+    imgnum: 95
+    reference: 24960095.tif
+  3c6b8529f78746fe96dadb940189ee11:
+    span:
+      start: 94544
+      end: 95555
+    imgnum: 96
+    reference: 24960096.tif
+  02b1eef804be4cb5802600fde6b5fc0b:
+    span:
+      start: 95556
+      end: 96570
+    imgnum: 97
+    reference: 24960097.tif
+  4731b844230d41a2a958babf1fe17a27:
+    span:
+      start: 96571
+      end: 97563
+    imgnum: 98
+    reference: 24960098.tif
+  c5ab966fea36438baf23eed209340d31:
+    span:
+      start: 97564
+      end: 98616
+    imgnum: 99
+    reference: 24960099.tif
+  543326bf9dbd46cb8a8ed8d4ad6f9f72:
+    span:
+      start: 98617
+      end: 99642
+    imgnum: 100
+    reference: 24960100.tif
+  8dcc283e5ddc4f7ba5e3a90c80c9381d:
+    span:
+      start: 99643
+      end: 100667
+    imgnum: 101
+    reference: 24960101.tif
+  a6835bb151d8435882aaa5da06131904:
+    span:
+      start: 100668
+      end: 101717
+    imgnum: 102
+    reference: 24960102.tif
+  89ec410a3d904e0092d6c8093b9e9a4b:
+    span:
+      start: 101718
+      end: 102795
+    imgnum: 103
+    reference: 24960103.tif
+  85e93e2a767e4c50aff70985f4d40878:
+    span:
+      start: 102796
+      end: 103903
+    imgnum: 104
+    reference: 24960104.tif
+  2ceaf56afdca4e5e8bc6be50a203f584:
+    span:
+      start: 103904
+      end: 104977
+    imgnum: 105
+    reference: 24960105.tif
+  ace6d30ad702412ebbe827ad82e38ffb:
+    span:
+      start: 104978
+      end: 106061
+    imgnum: 106
+    reference: 24960106.tif
+  9ec066b1f0334e6caa185c809b1bd402:
+    span:
+      start: 106062
+      end: 107136
+    imgnum: 107
+    reference: 24960107.tif
+  77e0b98c2f074794a0d0c8bf7428f3a3:
+    span:
+      start: 107137
+      end: 108237
+    imgnum: 108
+    reference: 24960108.tif
+  e9752455573c4d7c81e2ff157e1f34b9:
+    span:
+      start: 108238
+      end: 109330
+    imgnum: 109
+    reference: 24960109.tif
+  577075301f824e2799d344401767b1b0:
+    span:
+      start: 109331
+      end: 110447
+    imgnum: 110
+    reference: 24960110.tif
+  268bf6d9e9e44f6797298db9743a2987:
+    span:
+      start: 110448
+      end: 111558
+    imgnum: 111
+    reference: 24960111.tif
+  bb5f24778fd44a51ae49ef6d17b495ed:
+    span:
+      start: 111559
+      end: 112635
+    imgnum: 112
+    reference: 24960112.tif
+  2491f7b2d0054837b5c3a9e5976863cf:
+    span:
+      start: 112636
+      end: 113688
+    imgnum: 113
+    reference: 24960113.tif
+  0ecca4adb32d45b99b766be2fdfabdf6:
+    span:
+      start: 113689
+      end: 114722
+    imgnum: 114
+    reference: 24960114.tif
+  cfe99a92d21845d5bf020cfff103e698:
+    span:
+      start: 114723
+      end: 115779
+    imgnum: 115
+    reference: 24960115.tif
+  c7cb7178c9224ad1a458601eaa799eb5:
+    span:
+      start: 115780
+      end: 116849
+    imgnum: 116
+    reference: 24960116.tif
+  f4b26e865a4e47659e11711462a75fed:
+    span:
+      start: 116850
+      end: 117893
+    imgnum: 117
+    reference: 24960117.tif
+  ab2a7a99736f44c292d71ccb74079327:
+    span:
+      start: 117894
+      end: 118936
+    imgnum: 118
+    reference: 24960118.tif
+  3616f6f169614b218f04afcbca43b297:
+    span:
+      start: 118937
+      end: 120010
+    imgnum: 119
+    reference: 24960119.tif
+  6859995300c64e6b9efaae9db9b223da:
+    span:
+      start: 120011
+      end: 121051
+    imgnum: 120
+    reference: 24960120.tif
+  f581f31a43084b0d8da3f072ed232c2b:
+    span:
+      start: 121052
+      end: 122115
+    imgnum: 121
+    reference: 24960121.tif
+  6f2d5680b2e149729dc7e05ce7892447:
+    span:
+      start: 122116
+      end: 123214
+    imgnum: 122
+    reference: 24960122.tif
+  dec81f43bca04a589ae9f7898a4138f7:
+    span:
+      start: 123215
+      end: 124289
+    imgnum: 123
+    reference: 24960123.tif
+  3d1b1fd9272c4787aaa29c9ef7de4f50:
+    span:
+      start: 124290
+      end: 125349
+    imgnum: 124
+    reference: 24960124.tif
+  51a619d8e6394ea78323d1633c301fc9:
+    span:
+      start: 125350
+      end: 126452
+    imgnum: 125
+    reference: 24960125.tif
+  52ad4dc71ce84b7092486a25deed4278:
+    span:
+      start: 126453
+      end: 127485
+    imgnum: 126
+    reference: 24960126.tif
+  e850fba3b8f14b1fbbc6e522e3683302:
+    span:
+      start: 127486
+      end: 128507
+    imgnum: 127
+    reference: 24960127.tif
+  7d8054ab039f4b7cb67d3dc7f424b84f:
+    span:
+      start: 128508
+      end: 129582
+    imgnum: 128
+    reference: 24960128.tif
+  9861d19b0dbb455db1dadbde5f926576:
+    span:
+      start: 129583
+      end: 130641
+    imgnum: 129
+    reference: 24960129.tif
+  2593c5e3952c4f0da7c7663a4f03bd86:
+    span:
+      start: 130642
+      end: 131742
+    imgnum: 130
+    reference: 24960130.tif
+  6264db09d7604f1c8f184d757ee07d89:
+    span:
+      start: 131743
+      end: 132812
+    imgnum: 131
+    reference: 24960131.tif
+  b0415e0f0ea3459aa2156372c06f6e14:
+    span:
+      start: 132813
+      end: 133900
+    imgnum: 132
+    reference: 24960132.tif
+  5ca5085cb21b4623aa4ea8a92485cc39:
+    span:
+      start: 133901
+      end: 134975
+    imgnum: 133
+    reference: 24960133.tif
+  372c3dca91d843278da74127f15ce8fb:
+    span:
+      start: 134976
+      end: 136031
+    imgnum: 134
+    reference: 24960134.tif
+  66b3fbb769bd42d7bc945c23707e565b:
+    span:
+      start: 136032
+      end: 137109
+    imgnum: 135
+    reference: 24960135.tif
+  39ef71b46688420498365042a78c970a:
+    span:
+      start: 137110
+      end: 138197
+    imgnum: 136
+    reference: 24960136.tif
+  20296a7ad8284cdfae152302dc1e0df4:
+    span:
+      start: 138198
+      end: 139233
+    imgnum: 137
+    reference: 24960137.tif
+  f47977337f564684a4c8f2e7edcb9bca:
+    span:
+      start: 139234
+      end: 140315
+    imgnum: 138
+    reference: 24960138.tif
+  cd91bd32973e41a1a1edb8694c2d021b:
+    span:
+      start: 140316
+      end: 141370
+    imgnum: 139
+    reference: 24960139.tif
+  356dc6123dab41e5aee9093604656348:
+    span:
+      start: 141371
+      end: 142394
+    imgnum: 140
+    reference: 24960140.tif
+  4ee423a02f38489bb03cd671d18a5808:
+    span:
+      start: 142395
+      end: 143483
+    imgnum: 141
+    reference: 24960141.tif
+  8298c79789974144aa684a5aeb8b8518:
+    span:
+      start: 143484
+      end: 144547
+    imgnum: 142
+    reference: 24960142.tif
+  4611465508214e99bd3f79ba1ba6dad9:
+    span:
+      start: 144548
+      end: 145602
+    imgnum: 143
+    reference: 24960143.tif
+  0420c6c6ccf445f58ade64f3a7cef91c:
+    span:
+      start: 145603
+      end: 146692
+    imgnum: 144
+    reference: 24960144.tif
+  8b2597ab20fe4115a1930956de47def7:
+    span:
+      start: 146693
+      end: 147744
+    imgnum: 145
+    reference: 24960145.tif
+  b1e07637d23442be9e227bfa3673e027:
+    span:
+      start: 147745
+      end: 148841
+    imgnum: 146
+    reference: 24960146.tif
+  44adde3d504e4d4a859449e5a680ad4d:
+    span:
+      start: 148842
+      end: 149903
+    imgnum: 147
+    reference: 24960147.tif
+  d584cfe657d9466d93e43898ff5895ca:
+    span:
+      start: 149904
+      end: 151015
+    imgnum: 148
+    reference: 24960148.tif
+  ef682289dd074aed8bcc78aa38a0718c:
+    span:
+      start: 151016
+      end: 151997
+    imgnum: 149
+    reference: 24960149.tif
+  d1a6ae5af249429cb779b9fc6b9cbfee:
+    span:
+      start: 151998
+      end: 153083
+    imgnum: 150
+    reference: 24960150.tif
+  0d2b9dd2e719489e840150f6b0a2e3ec:
+    span:
+      start: 153084
+      end: 154136
+    imgnum: 151
+    reference: 24960151.tif
+  0b3438b8dc474540b5e84bd2529f1e11:
+    span:
+      start: 154137
+      end: 155226
+    imgnum: 152
+    reference: 24960152.tif
+  11ad84f9c60b43d2a46062891d16d069:
+    span:
+      start: 155227
+      end: 156269
+    imgnum: 153
+    reference: 24960153.tif
+  7d16c05efaf34698b3e7007db9c96f6e:
+    span:
+      start: 156270
+      end: 157280
+    imgnum: 154
+    reference: 24960154.tif
+  15a0b17fe57a42789b37c7dc9a375cfc:
+    span:
+      start: 157281
+      end: 158341
+    imgnum: 155
+    reference: 24960155.tif
+  1ac2debc096d49e486771a79d1fab2b1:
+    span:
+      start: 158342
+      end: 159394
+    imgnum: 156
+    reference: 24960156.tif
+  a6e80aeaa99f496abea125e9e06f9aad:
+    span:
+      start: 159395
+      end: 160419
+    imgnum: 157
+    reference: 24960157.tif
+  3394e896e45e44699cc5b6ae8f3226f6:
+    span:
+      start: 160420
+      end: 161442
+    imgnum: 158
+    reference: 24960158.tif
+  4a1c25d5ec08490d90fb7a7f931cd2ba:
+    span:
+      start: 161443
+      end: 162488
+    imgnum: 159
+    reference: 24960159.tif
+  c00f1a7cec2f4a128302336cced094f0:
+    span:
+      start: 162489
+      end: 163525
+    imgnum: 160
+    reference: 24960160.tif
+  82716ca99a9349b3a9e9c14294872fb7:
+    span:
+      start: 163526
+      end: 164568
+    imgnum: 161
+    reference: 24960161.tif
+  17a649dd2c8141de8f9feafb830967e6:
+    span:
+      start: 164569
+      end: 165536
+    imgnum: 162
+    reference: 24960162.tif
+  8698154661924118ac04d0df7b6a3221:
+    span:
+      start: 165537
+      end: 166606
+    imgnum: 163
+    reference: 24960163.tif
+  5bf326974fdf413c80d948adf8c8c445:
+    span:
+      start: 166607
+      end: 167614
+    imgnum: 164
+    reference: 24960164.tif
+  1c33e2b920ad43ad8c9a87868a477f85:
+    span:
+      start: 167615
+      end: 168684
+    imgnum: 165
+    reference: 24960165.tif
+  313bfe26d71042a5865c85506fc4a5ae:
+    span:
+      start: 168685
+      end: 169707
+    imgnum: 166
+    reference: 24960166.tif
+  ec2ac7f3b9dc49e3ab5fe3ac32c249d6:
+    span:
+      start: 169708
+      end: 170726
+    imgnum: 167
+    reference: 24960167.tif
+  6538f9b0196a41f48a4815f067a3a52e:
+    span:
+      start: 170727
+      end: 171718
+    imgnum: 168
+    reference: 24960168.tif
+  4c0c32ca88c244298a3c5abe090fbbc5:
+    span:
+      start: 171719
+      end: 172755
+    imgnum: 169
+    reference: 24960169.tif
+  b1597126a66641b484e285fde0a84968:
+    span:
+      start: 172756
+      end: 173742
+    imgnum: 170
+    reference: 24960170.tif
+  fd71343d350c4773950206c7228b2e79:
+    span:
+      start: 173743
+      end: 174766
+    imgnum: 171
+    reference: 24960171.tif
+  5350f281ba90474ab0ac0eb48bb0e40e:
+    span:
+      start: 174767
+      end: 175771
+    imgnum: 172
+    reference: 24960172.tif
+  6d53e5605d864a468970a96215211ce3:
+    span:
+      start: 175772
+      end: 176773
+    imgnum: 173
+    reference: 24960173.tif
+  addf55d0c207404c9ccf5053e96147db:
+    span:
+      start: 176774
+      end: 177792
+    imgnum: 174
+    reference: 24960174.tif
+  58c55ba4fa98430082b7d1f1657417c8:
+    span:
+      start: 177793
+      end: 178797
+    imgnum: 175
+    reference: 24960175.tif
+  c688d6750405414488ee62b333857875:
+    span:
+      start: 178798
+      end: 179810
+    imgnum: 176
+    reference: 24960176.tif
+  40cb4b7fbe4e4e3ab5d58242c5c1055f:
+    span:
+      start: 179811
+      end: 180892
+    imgnum: 177
+    reference: 24960177.tif
+  c86503ca0e03469d84af341fe95902d7:
+    span:
+      start: 180893
+      end: 181901
+    imgnum: 178
+    reference: 24960178.tif
+  079d05d825cf466da2759eb4f1b7ee6b:
+    span:
+      start: 181902
+      end: 182856
+    imgnum: 179
+    reference: 24960179.tif
+  266ddd33372946d7a10c8acdae88bf36:
+    span:
+      start: 182857
+      end: 183924
+    imgnum: 180
+    reference: 24960180.tif
+  b3a26eca813f4fa7bbec20297c6eca26:
+    span:
+      start: 183925
+      end: 184939
+    imgnum: 181
+    reference: 24960181.tif
+  e8511d8ed3034150985e2382143065c6:
+    span:
+      start: 184940
+      end: 185906
+    imgnum: 182
+    reference: 24960182.tif
+  4c42232c83a845bdbcf9acba7b547abe:
+    span:
+      start: 185907
+      end: 186864
+    imgnum: 183
+    reference: 24960183.tif
+  d264bd3dc6574650acc517ac6411e9c9:
+    span:
+      start: 186865
+      end: 187861
+    imgnum: 184
+    reference: 24960184.tif
+  f7019af4c20e4df4bc785d5054a01742:
+    span:
+      start: 187862
+      end: 188821
+    imgnum: 185
+    reference: 24960185.tif
+  8f2be49021b74049964ce586b8514fae:
+    span:
+      start: 188822
+      end: 189755
+    imgnum: 186
+    reference: 24960186.tif
+  f7ad53bcc1e148b3b51d4c95ab1f96da:
+    span:
+      start: 189756
+      end: 190725
+    imgnum: 187
+    reference: 24960187.tif
+  34c1f92a5ef74ca78983f4d3cdaaac2d:
+    span:
+      start: 190726
+      end: 191699
+    imgnum: 188
+    reference: 24960188.tif
+  90ff1ec432f54e858f4177b6765d68ae:
+    span:
+      start: 191700
+      end: 192664
+    imgnum: 189
+    reference: 24960189.tif
+  7730bd07ab094c278c27caa45df931ee:
+    span:
+      start: 192665
+      end: 193618
+    imgnum: 190
+    reference: 24960190.tif
+  e0daa21546ec4d53b8afbdd908ef2137:
+    span:
+      start: 193619
+      end: 194548
+    imgnum: 191
+    reference: 24960191.tif
+  04ba732d33e2471893ca385dd0aad936:
+    span:
+      start: 194549
+      end: 195605
+    imgnum: 192
+    reference: 24960192.tif
+  5b6c49eab2a64a5299c8ae072d957aaa:
+    span:
+      start: 195606
+      end: 196591
+    imgnum: 193
+    reference: 24960193.tif
+  5858397028b34863961e264bc1e9dd9d:
+    span:
+      start: 196592
+      end: 197635
+    imgnum: 194
+    reference: 24960194.tif
+  18082fdf6f864c5496617fa7690190ed:
+    span:
+      start: 197636
+      end: 198652
+    imgnum: 195
+    reference: 24960195.tif
+  4aabdf215c3a46c09238808e9b4d43ab:
+    span:
+      start: 198653
+      end: 199599
+    imgnum: 196
+    reference: 24960196.tif
+  c559e965a7c149bcb5e21b23da02e651:
+    span:
+      start: 199600
+      end: 200581
+    imgnum: 197
+    reference: 24960197.tif
+  417f4a1ab72e41e58def5f1192bdaf81:
+    span:
+      start: 200582
+      end: 201576
+    imgnum: 198
+    reference: 24960198.tif
+  a23e16e00a7c43efb501bc656d5aaae9:
+    span:
+      start: 201577
+      end: 202566
+    imgnum: 199
+    reference: 24960199.tif
+  288e9f76b2884038a15ad5be0292f6e6:
+    span:
+      start: 202567
+      end: 203645
+    imgnum: 200
+    reference: 24960200.tif
+  b58af828315c4d139dae569a5f7e85e7:
+    span:
+      start: 203646
+      end: 204569
+    imgnum: 201
+    reference: 24960201.tif
+  54165ce965704b1fa12d7bc9a103023c:
+    span:
+      start: 204570
+      end: 205578
+    imgnum: 202
+    reference: 24960202.tif
+  588bf410b16e4b48a3958d4e686c2986:
+    span:
+      start: 205579
+      end: 206514
+    imgnum: 203
+    reference: 24960203.tif
+  239f389d6783477895b1712dde7f9ebf:
+    span:
+      start: 206515
+      end: 207351
+    imgnum: 204
+    reference: 24960204.tif
+  1d79bc34dfff4cac9e9061f257ee3626:
+    span:
+      start: 207352
+      end: 208428
+    imgnum: 205
+    reference: 24960205.tif
+  4124cfb832a64c4fbfce448cb0a8a598:
+    span:
+      start: 208429
+      end: 209433
+    imgnum: 206
+    reference: 24960206.tif
+  94164ef14917447a9910b7c2e8e886d5:
+    span:
+      start: 209434
+      end: 210467
+    imgnum: 207
+    reference: 24960207.tif
+  ac501464fe3f47f69fdc5944f382b04c:
+    span:
+      start: 210468
+      end: 211523
+    imgnum: 208
+    reference: 24960208.tif
+  8190954d435d41d2be840dd08c686eb2:
+    span:
+      start: 211524
+      end: 212514
+    imgnum: 209
+    reference: 24960209.tif
+  56e3f313d0cd46a5a0dce33d21661526:
+    span:
+      start: 212515
+      end: 213415
+    imgnum: 210
+    reference: 24960210.tif
+  8d1dcff975894e9fb4ca6ce09fb37b71:
+    span:
+      start: 213416
+      end: 214508
+    imgnum: 211
+    reference: 24960211.tif
+  82d3f9ddcf93465abffbf04356d13eab:
+    span:
+      start: 214509
+      end: 215460
+    imgnum: 212
+    reference: 24960212.tif
+  c435893c625040eca2a88e48978f3fca:
+    span:
+      start: 215461
+      end: 216395
+    imgnum: 213
+    reference: 24960213.tif
+  e8ba0b4ca245462fbe76dae67fdc01c3:
+    span:
+      start: 216396
+      end: 217378
+    imgnum: 214
+    reference: 24960214.tif
+  012cec312a384c979a7aaad3348c568c:
+    span:
+      start: 217379
+      end: 218394
+    imgnum: 215
+    reference: 24960215.tif
+  6c527267c5c141c3a9ff13a1b864746e:
+    span:
+      start: 218395
+      end: 219393
+    imgnum: 216
+    reference: 24960216.tif
+  7de11d13bbcd46ea9b5b75d0c07a03d6:
+    span:
+      start: 219394
+      end: 220367
+    imgnum: 217
+    reference: 24960217.tif
+  8393be9898654de28dd2d69128245a59:
+    span:
+      start: 220368
+      end: 221302
+    imgnum: 218
+    reference: 24960218.tif
+  add117fccf174145b19bbb51626e65e8:
+    span:
+      start: 221303
+      end: 222270
+    imgnum: 219
+    reference: 24960219.tif
+  47cefb548d42495594adde0adf49c382:
+    span:
+      start: 222271
+      end: 223299
+    imgnum: 220
+    reference: 24960220.tif
+  5ab3fc5b8b934ba7b3981032318c6102:
+    span:
+      start: 223300
+      end: 224305
+    imgnum: 221
+    reference: 24960221.tif
+  c2d01f0deb654701a79caf2eb80b0761:
+    span:
+      start: 224306
+      end: 225343
+    imgnum: 222
+    reference: 24960222.tif
+  07668a3e9fb04bb78d24a7578cb4b406:
+    span:
+      start: 225344
+      end: 226309
+    imgnum: 223
+    reference: 24960223.tif
+  b026abfd74ce463386e3f3f00458406f:
+    span:
+      start: 226310
+      end: 227346
+    imgnum: 224
+    reference: 24960224.tif
+  136facefe61041d6a08e06decb60b82b:
+    span:
+      start: 227347
+      end: 228363
+    imgnum: 225
+    reference: 24960225.tif
+  81ed5ab220f742e8b44bc1e169c4a114:
+    span:
+      start: 228364
+      end: 229311
+    imgnum: 226
+    reference: 24960226.tif
+  0becce4849864874a64aaf09a0ba9ff6:
+    span:
+      start: 229312
+      end: 230297
+    imgnum: 227
+    reference: 24960227.tif
+  16e2e35c6ab9402fad1aa0e32dedd3e3:
+    span:
+      start: 230298
+      end: 231254
+    imgnum: 228
+    reference: 24960228.tif
+  7c4d263756704c2e994d09b44f42d658:
+    span:
+      start: 231255
+      end: 232270
+    imgnum: 229
+    reference: 24960229.tif
+  bedf42d04f1f4ece8821d817b49b9dff:
+    span:
+      start: 232271
+      end: 233322
+    imgnum: 230
+    reference: 24960230.tif
+  c116c43a4778412cb51f95b4c4ce547c:
+    span:
+      start: 233323
+      end: 234340
+    imgnum: 231
+    reference: 24960231.tif
+  efee12e6682d4576a195028b792ac3a3:
+    span:
+      start: 234341
+      end: 235310
+    imgnum: 232
+    reference: 24960232.tif
+  50c3fe402001449d824afd7fae720be3:
+    span:
+      start: 235311
+      end: 236403
+    imgnum: 233
+    reference: 24960233.tif
+  edb4e498522941ab96abb90a442a6547:
+    span:
+      start: 236404
+      end: 237437
+    imgnum: 234
+    reference: 24960234.tif
+  2b3d4ea66486454abd2815bf19fe1dbf:
+    span:
+      start: 237438
+      end: 238425
+    imgnum: 235
+    reference: 24960235.tif
+  005bbe40fe81465e93b55aa3467b4f92:
+    span:
+      start: 238426
+      end: 239400
+    imgnum: 236
+    reference: 24960236.tif
+  919f4e6678ad439ab9f3a4bd6bab511d:
+    span:
+      start: 239401
+      end: 240389
+    imgnum: 237
+    reference: 24960237.tif
+  f227af9a81dc4770b17426e012b40090:
+    span:
+      start: 240390
+      end: 241478
+    imgnum: 238
+    reference: 24960238.tif
+  96a50d45c76543e392c1cdb993ffec21:
+    span:
+      start: 241479
+      end: 242543
+    imgnum: 239
+    reference: 24960239.tif
+  3374821bc127476a80b5466473ea448d:
+    span:
+      start: 242544
+      end: 243529
+    imgnum: 240
+    reference: 24960240.tif
+  fb1fde979b644cd48ee41eec065b90b9:
+    span:
+      start: 243530
+      end: 244581
+    imgnum: 241
+    reference: 24960241.tif
+  e662d4676f61435eb885dd74a7e80ee5:
+    span:
+      start: 244582
+      end: 245614
+    imgnum: 242
+    reference: 24960242.tif
+  6fcd7b69f31d4afc8387cf9fd81ea3a4:
+    span:
+      start: 245615
+      end: 246590
+    imgnum: 243
+    reference: 24960243.tif
+  10aa7a6d6f7e4d2fa74a97afc53a4c30:
+    span:
+      start: 246591
+      end: 247549
+    imgnum: 244
+    reference: 24960244.tif
+  ae2dd3fe13cb427593cbb09b83bdddd6:
+    span:
+      start: 247550
+      end: 248561
+    imgnum: 245
+    reference: 24960245.tif
+  f586ec4940ea4afb83e8616431e7e3bf:
+    span:
+      start: 248562
+      end: 249587
+    imgnum: 246
+    reference: 24960246.tif
+  32826435b87e4601af15c8fdeed73159:
+    span:
+      start: 249588
+      end: 250619
+    imgnum: 247
+    reference: 24960247.tif
+  1955fcad589940af989cd34fef6ba9c5:
+    span:
+      start: 250620
+      end: 251588
+    imgnum: 248
+    reference: 24960248.tif
+  de411472cffb438e9af16a6f4727a38e:
+    span:
+      start: 251589
+      end: 252558
+    imgnum: 249
+    reference: 24960249.tif
+  c6cd7ed862734b32b51927d2e6879a3c:
+    span:
+      start: 252559
+      end: 253572
+    imgnum: 250
+    reference: 24960250.tif
+  25a9808e1b624d978dad9b5caa630448:
+    span:
+      start: 253573
+      end: 254585
+    imgnum: 251
+    reference: 24960251.tif
+  7f4251494e8e481a904638412c22a6d9:
+    span:
+      start: 254586
+      end: 255609
+    imgnum: 252
+    reference: 24960252.tif
+  5f1fd782c2c44ed18cb5661f659bafc1:
+    span:
+      start: 255610
+      end: 256611
+    imgnum: 253
+    reference: 24960253.tif
+  96607c026fa64ba08592fd8957e5a015:
+    span:
+      start: 256612
+      end: 257598
+    imgnum: 254
+    reference: 24960254.tif
+  c7436f6062cd4a8f92f4c0b2b7c11e16:
+    span:
+      start: 257599
+      end: 258648
+    imgnum: 255
+    reference: 24960255.tif
+  deac3eb13d87486ca54b7e240a7c9319:
+    span:
+      start: 258649
+      end: 259630
+    imgnum: 256
+    reference: 24960256.tif
+  e5466a977fca437db1a0fa9e183e8485:
+    span:
+      start: 259631
+      end: 260620
+    imgnum: 257
+    reference: 24960257.tif
+  c68aba4e1742430d95b0488370ed2353:
+    span:
+      start: 260621
+      end: 261606
+    imgnum: 258
+    reference: 24960258.tif
+  3df90716b7154b48beae60151f1e9a4c:
+    span:
+      start: 261607
+      end: 262611
+    imgnum: 259
+    reference: 24960259.tif
+  ce20c0b150a441fcb1195bc2f73a8696:
+    span:
+      start: 262612
+      end: 263589
+    imgnum: 260
+    reference: 24960260.tif
+  d9268c0c7d904565ba0dfe5408e5e57c:
+    span:
+      start: 263590
+      end: 264581
+    imgnum: 261
+    reference: 24960261.tif
+  17fcc97307ed4e5db12aab1fdfd0ab4b:
+    span:
+      start: 264582
+      end: 265495
+    imgnum: 262
+    reference: 24960262.tif
+  91a4c6bc06e54780bc163d0216fd915d:
+    span:
+      start: 265496
+      end: 266489
+    imgnum: 263
+    reference: 24960263.tif
+  c9f8b68e078249a8b6cdb822a6349aa6:
+    span:
+      start: 266490
+      end: 267517
+    imgnum: 264
+    reference: 24960264.tif
+  1bb2e22fc04b4cf4a2ae6f0971cb9ecd:
+    span:
+      start: 267518
+      end: 268484
+    imgnum: 265
+    reference: 24960265.tif
+  698cfc130c054ced90b09bd507fb24ac:
+    span:
+      start: 268485
+      end: 269554
+    imgnum: 266
+    reference: 24960266.tif
+  d3238a5b6b144537b1e50fd2e726d9c3:
+    span:
+      start: 269555
+      end: 270568
+    imgnum: 267
+    reference: 24960267.tif
+  b76bfa96a96c4f869fa4b9162e01c80e:
+    span:
+      start: 270569
+      end: 271543
+    imgnum: 268
+    reference: 24960268.tif
+  c4728527cf264dde80451167449836f6:
+    span:
+      start: 271544
+      end: 272539
+    imgnum: 269
+    reference: 24960269.tif
+  f6926dc8edf4436e9fefdb3258ada01f:
+    span:
+      start: 272540
+      end: 273510
+    imgnum: 270
+    reference: 24960270.tif
+  5db317c6c3fe456d8b933ff2ea69d855:
+    span:
+      start: 273511
+      end: 274501
+    imgnum: 271
+    reference: 24960271.tif
+  227546795e9f487a87ea4c1e0789a500:
+    span:
+      start: 274502
+      end: 275454
+    imgnum: 272
+    reference: 24960272.tif
+  84521778a1a64783a976a374c0c5ee07:
+    span:
+      start: 275455
+      end: 276543
+    imgnum: 273
+    reference: 24960273.tif
+  55638b570bca4804b0dfb542520e5f9f:
+    span:
+      start: 276544
+      end: 277474
+    imgnum: 274
+    reference: 24960274.tif
+  7bb229b616ca46e58855ba5118ee352f:
+    span:
+      start: 277475
+      end: 278494
+    imgnum: 275
+    reference: 24960275.tif
+  f67b346a027a42aca4a4c04eb8e0ddad:
+    span:
+      start: 278495
+      end: 279505
+    imgnum: 276
+    reference: 24960276.tif
+  916446aa04274441984226aaf2b883ee:
+    span:
+      start: 279506
+      end: 280526
+    imgnum: 277
+    reference: 24960277.tif
+  d3f3108719d14271baca61a61a6ec5a6:
+    span:
+      start: 280527
+      end: 281542
+    imgnum: 278
+    reference: 24960278.tif
+  a76328387b114e1c85cf330c0451bd4f:
+    span:
+      start: 281543
+      end: 282583
+    imgnum: 279
+    reference: 24960279.tif
+  690dd29a17604a9fb3c5412d07d4acd2:
+    span:
+      start: 282584
+      end: 283596
+    imgnum: 280
+    reference: 24960280.tif
+  0d0756b871664079aa5611f982d96d6d:
+    span:
+      start: 283597
+      end: 284844
+    imgnum: 281
+    reference: 24960281.tif
+  351980b3e945429796f8ac8d1cb75770:
+    span:
+      start: 284845
+      end: 285886
+    imgnum: 282
+    reference: 24960282.tif
+  ec84ba19e72f4c1cb6194b405bd5c749:
+    span:
+      start: 285887
+      end: 286949
+    imgnum: 283
+    reference: 24960283.tif
+  3d2009311060462c944945851d05a2f8:
+    span:
+      start: 286950
+      end: 287999
+    imgnum: 284
+    reference: 24960284.tif
+  26864cf912ee4acc9c6512c100b420e0:
+    span:
+      start: 288000
+      end: 289054
+    imgnum: 285
+    reference: 24960285.tif
+  cade416aa0c74ceab51924901e9ac3b1:
+    span:
+      start: 289055
+      end: 290065
+    imgnum: 286
+    reference: 24960286.tif
+  d15ac9d03904469db0e0feb8838702b1:
+    span:
+      start: 290066
+      end: 291046
+    imgnum: 287
+    reference: 24960287.tif
+  a827f0593ac9406ab0aae6269009a02e:
+    span:
+      start: 291047
+      end: 292050
+    imgnum: 288
+    reference: 24960288.tif
+  022c69a0196a4bcc948824bd7e9e28fc:
+    span:
+      start: 292051
+      end: 293075
+    imgnum: 289
+    reference: 24960289.tif
+  33365ed8785645e99ebc8500437b88d7:
+    span:
+      start: 293076
+      end: 293363
+    imgnum: 290
+    reference: 24960290.tif
+  39e1b5ff97e34fb89802e47fbd7e4a0b:
+    span:
+      start: 293364
+      end: 294334
+    imgnum: 291
+    reference: 24960291.tif
+  ba927af914b945df85822c395b245db4:
+    span:
+      start: 294335
+      end: 294707
+    imgnum: 292
+    reference: 24960292.tif
+  58ca707ee49b4444abe98f65a178c457:
+    span:
+      start: 294708
+      end: 295682
+    imgnum: 293
+    reference: 24960293.tif
+  ae82ad58c7614a4eba925fbd52ec1e5d:
+    span:
+      start: 295683
+      end: 296688
+    imgnum: 294
+    reference: 24960294.tif
+  98de256506d04234b473487368e29198:
+    span:
+      start: 296689
+      end: 297686
+    imgnum: 295
+    reference: 24960295.tif
+  78082780d777402f8c826bb366c99f0b:
+    span:
+      start: 297687
+      end: 298738
+    imgnum: 296
+    reference: 24960296.tif
+  7cb55c72310142b9b30dbd2f3d49d970:
+    span:
+      start: 298739
+      end: 299869
+    imgnum: 297
+    reference: 24960297.tif
+  73034dbcfb134e34908c1a71695755fd:
+    span:
+      start: 299870
+      end: 300166
+    imgnum: 298
+    reference: 24960298.tif
+  a773b3c678b742638545b4842a27cfbb:
+    span:
+      start: 300167
+      end: 301171
+    imgnum: 299
+    reference: 24960299.tif
+  dd81cf17503a44e9aae92de4c3a5290b:
+    span:
+      start: 301172
+      end: 302168
+    imgnum: 300
+    reference: 24960300.tif
+  20dfd992d4f34e32ad59b0b536ddc0c3:
+    span:
+      start: 302169
+      end: 303209
+    imgnum: 301
+    reference: 24960301.tif
+  3dd0d3f7e6cb4198859ac00280d36aee:
+    span:
+      start: 303210
+      end: 303911
+    imgnum: 302
+    reference: 24960302.tif
+  953f2a6db080423ba4803323138b49aa:
+    span:
+      start: 303912
+      end: 304925
+    imgnum: 303
+    reference: 24960303.tif
+  a25ffd25cfc34f4d89644b30c1c039a4:
+    span:
+      start: 304926
+      end: 305950
+    imgnum: 304
+    reference: 24960304.tif
+  19e97ab4099a4566b36ad433b0ef9258:
+    span:
+      start: 305951
+      end: 306934
+    imgnum: 305
+    reference: 24960305.tif
+  b0268be2af6d4d598992b579d9352b79:
+    span:
+      start: 306935
+      end: 307909
+    imgnum: 306
+    reference: 24960306.tif
+  d210061fdf694103b14e13491cf2b3e5:
+    span:
+      start: 307910
+      end: 308869
+    imgnum: 307
+    reference: 24960307.tif
+  665645f629764b65b4e9814eb3a4064a:
+    span:
+      start: 308870
+      end: 309891
+    imgnum: 308
+    reference: 24960308.tif
+  05c1aa7d8cff453ebae3d6b95baa39b0:
+    span:
+      start: 309892
+      end: 310873
+    imgnum: 309
+    reference: 24960309.tif
+  166968679a9e4f89a0211904ac7e6aad:
+    span:
+      start: 310874
+      end: 311870
+    imgnum: 310
+    reference: 24960310.tif
+  f69cd628ad3c414181023b42a06d2c6d:
+    span:
+      start: 311871
+      end: 312840
+    imgnum: 311
+    reference: 24960311.tif
+  76d15709d0b04e1aa7a62e8fc491b76f:
+    span:
+      start: 312841
+      end: 313872
+    imgnum: 312
+    reference: 24960312.tif
+  77312a7b99224495a8fed0e1572581e0:
+    span:
+      start: 313873
+      end: 314845
+    imgnum: 313
+    reference: 24960313.tif
+  0168827c13d7469a86f4eb4b949e7eb9:
+    span:
+      start: 314846
+      end: 315898
+    imgnum: 314
+    reference: 24960314.tif
+  3ac17d9316d645cbb843cd4d52b65b03:
+    span:
+      start: 315899
+      end: 316953
+    imgnum: 315
+    reference: 24960315.tif
+  b5eafebb61dd47bca9d2cf047d378f01:
+    span:
+      start: 316954
+      end: 317969
+    imgnum: 316
+    reference: 24960316.tif
+  cd4e3730a9d448749535965725f8e5e4:
+    span:
+      start: 317970
+      end: 318925
+    imgnum: 317
+    reference: 24960317.tif
+  7e3fc8fe8bfc4adfab77e600ec1d0d7d:
+    span:
+      start: 318926
+      end: 319893
+    imgnum: 318
+    reference: 24960318.tif
+  fd51fe39697f4850aa4de945aa9d8ba1:
+    span:
+      start: 319894
+      end: 320932
+    imgnum: 319
+    reference: 24960319.tif
+  2a8e1a4e479540f9b6fcdfa9d1bd6f2b:
+    span:
+      start: 320933
+      end: 321913
+    imgnum: 320
+    reference: 24960320.tif
+  1e14a3afc9cb4b75b1539839d0c4462a:
+    span:
+      start: 321914
+      end: 322900
+    imgnum: 321
+    reference: 24960321.tif
+  734731033c0f4053b652364dcea35ed4:
+    span:
+      start: 322901
+      end: 323937
+    imgnum: 322
+    reference: 24960322.tif
+  85d461298202417dbbaf96d16fce047a:
+    span:
+      start: 323938
+      end: 324915
+    imgnum: 323
+    reference: 24960323.tif
+  24aeb0b0396f4c75880a8d060f87d55a:
+    span:
+      start: 324916
+      end: 325894
+    imgnum: 324
+    reference: 24960324.tif
+  f5c5eca8aa6b4ec3818695b404ba3019:
+    span:
+      start: 325895
+      end: 326863
+    imgnum: 325
+    reference: 24960325.tif
+  a398a81134ff47ddae9e7de2a825e9aa:
+    span:
+      start: 326864
+      end: 327837
+    imgnum: 326
+    reference: 24960326.tif
+  87c5b9b07d7d4b7fab77d7c3a22d8134:
+    span:
+      start: 327838
+      end: 328799
+    imgnum: 327
+    reference: 24960327.tif
+  edd467ce3d9d47f7b52afef419581a40:
+    span:
+      start: 328800
+      end: 329777
+    imgnum: 328
+    reference: 24960328.tif
+  ebdb7b12a86d4a7c86b2b4101fedbe9e:
+    span:
+      start: 329778
+      end: 330753
+    imgnum: 329
+    reference: 24960329.tif
+  ea7a704887cd4a8e8a48e6e3c417b741:
+    span:
+      start: 330754
+      end: 331701
+    imgnum: 330
+    reference: 24960330.tif
+  4e0a7440feae4991ba734d9fa1644a52:
+    span:
+      start: 331702
+      end: 332723
+    imgnum: 331
+    reference: 24960331.tif
+  8eb6b599f781474dbeb9eeb099d217b7:
+    span:
+      start: 332724
+      end: 333769
+    imgnum: 332
+    reference: 24960332.tif
+  ffc34298b0a04bc99b891e3e1666b7c2:
+    span:
+      start: 333770
+      end: 334777
+    imgnum: 333
+    reference: 24960333.tif
+  262f58550d524b61a9e5e6295830af8a:
+    span:
+      start: 334778
+      end: 335747
+    imgnum: 334
+    reference: 24960334.tif
+  6ca5248684cb433a8d8fd8aa67b67005:
+    span:
+      start: 335748
+      end: 336766
+    imgnum: 335
+    reference: 24960335.tif
+  9740ea35a9734cf4bf294f5245cd5d6c:
+    span:
+      start: 336767
+      end: 337743
+    imgnum: 336
+    reference: 24960336.tif
+  d59dda211d9c4cbf985759ca8043b067:
+    span:
+      start: 337744
+      end: 338759
+    imgnum: 337
+    reference: 24960337.tif
+  c1319cbbaa0446b3a4d76e5f54ef137d:
+    span:
+      start: 338760
+      end: 339800
+    imgnum: 338
+    reference: 24960338.tif
+  176f8aa64d104a439321e3e9aaa4662d:
+    span:
+      start: 339801
+      end: 340788
+    imgnum: 339
+    reference: 24960339.tif
+  d3f05b5020324d25bc8fdefb9314faac:
+    span:
+      start: 340789
+      end: 341821
+    imgnum: 340
+    reference: 24960340.tif
+  bcefbe2005c24703977890a74d8a6027:
+    span:
+      start: 341822
+      end: 342787
+    imgnum: 341
+    reference: 24960341.tif
+  2f80fc43f7774b22ba8a791595b47a2b:
+    span:
+      start: 342788
+      end: 343766
+    imgnum: 342
+    reference: 24960342.tif
+  b1d4d1688da14e4fb95e45c554a816ad:
+    span:
+      start: 343767
+      end: 344760
+    imgnum: 343
+    reference: 24960343.tif
+  3fa4d781ab0e4010bf5fb46dce3b040f:
+    span:
+      start: 344761
+      end: 345808
+    imgnum: 344
+    reference: 24960344.tif
+  42069782d53a43f791b4ebbd5be91498:
+    span:
+      start: 345809
+      end: 346761
+    imgnum: 345
+    reference: 24960345.tif
+  ca0b568c2f6c42c790004c1c0173fff6:
+    span:
+      start: 346762
+      end: 347731
+    imgnum: 346
+    reference: 24960346.tif
+  1eb4780a33e34e63a1aa6292e705aea4:
+    span:
+      start: 347732
+      end: 348754
+    imgnum: 347
+    reference: 24960347.tif
+  e0fa0b50b0ab42fca24d7be6d80109c2:
+    span:
+      start: 348755
+      end: 349742
+    imgnum: 348
+    reference: 24960348.tif
+  347696341de443a1878a8dcad6ed2dbe:
+    span:
+      start: 349743
+      end: 350718
+    imgnum: 349
+    reference: 24960349.tif
+  f5bae791058c41d1a7ff786115b918b1:
+    span:
+      start: 350719
+      end: 351721
+    imgnum: 350
+    reference: 24960350.tif
+  0bcd9cf853d040d7892230110cd20840:
+    span:
+      start: 351722
+      end: 352702
+    imgnum: 351
+    reference: 24960351.tif
+  a64c0b0c88a34c95874979e9582448be:
+    span:
+      start: 352703
+      end: 353696
+    imgnum: 352
+    reference: 24960352.tif
+  68c05085da17408c9d3d0a80aa7755a2:
+    span:
+      start: 353697
+      end: 354704
+    imgnum: 353
+    reference: 24960353.tif
+  e2860d9ccb3f459196fadc9c28345604:
+    span:
+      start: 354705
+      end: 355667
+    imgnum: 354
+    reference: 24960354.tif
+  0ef4871d46424a84a5191b525ff2e8b1:
+    span:
+      start: 355668
+      end: 356649
+    imgnum: 355
+    reference: 24960355.tif
+  9cfa41a0fda14780859ff45973a375d9:
+    span:
+      start: 356650
+      end: 357636
+    imgnum: 356
+    reference: 24960356.tif
+  0b0260e96a1a4ffcaad0612986ee139b:
+    span:
+      start: 357637
+      end: 358620
+    imgnum: 357
+    reference: 24960357.tif
+  a43aef6894424210aed14d69a8ba33bd:
+    span:
+      start: 358621
+      end: 359653
+    imgnum: 358
+    reference: 24960358.tif
+  102880b3e5ed44af9b19bdcfcdf2145d:
+    span:
+      start: 359654
+      end: 360682
+    imgnum: 359
+    reference: 24960359.tif
+  044b1dd4c73440ec88fedd5c2de4080b:
+    span:
+      start: 360683
+      end: 361661
+    imgnum: 360
+    reference: 24960360.tif
+  96d60e326ce5462a9901b33ac591e7f3:
+    span:
+      start: 361662
+      end: 362652
+    imgnum: 361
+    reference: 24960361.tif
+  4661cd64571a4a209b8c34b28f9d0758:
+    span:
+      start: 362653
+      end: 363644
+    imgnum: 362
+    reference: 24960362.tif
+  961e348a1d87474094472b11b64453a4:
+    span:
+      start: 363645
+      end: 364658
+    imgnum: 363
+    reference: 24960363.tif
+  0f1f885f82e047a092b92cc62d9b298e:
+    span:
+      start: 364659
+      end: 365701
+    imgnum: 364
+    reference: 24960364.tif
+  d98f66d75a044323a3466d3140915ae3:
+    span:
+      start: 365702
+      end: 366711
+    imgnum: 365
+    reference: 24960365.tif
+  d4d0b00c99564d3ca376da217f8d3b46:
+    span:
+      start: 366712
+      end: 367686
+    imgnum: 366
+    reference: 24960366.tif
+  2f3c3ce7fa50407382823daca2d62a4c:
+    span:
+      start: 367687
+      end: 368676
+    imgnum: 367
+    reference: 24960367.tif
+  6d7531f250ec4e72a4a37b69baa0564f:
+    span:
+      start: 368677
+      end: 369662
+    imgnum: 368
+    reference: 24960368.tif
+  a583ee3b4826433092fc0680d5386830:
+    span:
+      start: 369663
+      end: 370676
+    imgnum: 369
+    reference: 24960369.tif
+  13f0cc674d0348ce89eae7583f9ec35b:
+    span:
+      start: 370677
+      end: 371704
+    imgnum: 370
+    reference: 24960370.tif
+  14e189083c6341cd919fe20c55b9584d:
+    span:
+      start: 371705
+      end: 372739
+    imgnum: 371
+    reference: 24960371.tif
+  746f1ebd455e4dd3b06a850049ae9c4c:
+    span:
+      start: 372740
+      end: 373352
+    imgnum: 372
+    reference: 24960372.tif
+  6d06903e8f2741818af4c0c83e839f19:
+    span:
+      start: 373353
+      end: 374366
+    imgnum: 373
+    reference: 24960373.tif
+  8eb829479c80490d9032dfb529f7bb69:
+    span:
+      start: 374367
+      end: 375337
+    imgnum: 374
+    reference: 24960374.tif
+  bf45a13fe0b84b928aaa74300394eff2:
+    span:
+      start: 375338
+      end: 376361
+    imgnum: 375
+    reference: 24960375.tif
+  d163ac580bcb4bf2bf043e9839c861fb:
+    span:
+      start: 376362
+      end: 377326
+    imgnum: 376
+    reference: 24960376.tif
+  13266fa72a1e414c95e75275db3e6637:
+    span:
+      start: 377327
+      end: 378301
+    imgnum: 377
+    reference: 24960377.tif
+  507e4995c369463ab41f993d182df1c2:
+    span:
+      start: 378302
+      end: 379298
+    imgnum: 378
+    reference: 24960378.tif
+  315f94f73c614e8bb7822b5bd70048d9:
+    span:
+      start: 379299
+      end: 380262
+    imgnum: 379
+    reference: 24960379.tif
+  b96654190130490f947933776a4ebde6:
+    span:
+      start: 380263
+      end: 381302
+    imgnum: 380
+    reference: 24960380.tif
+  e7dbb97af9784df98e83cec75c1461c0:
+    span:
+      start: 381303
+      end: 382294
+    imgnum: 381
+    reference: 24960381.tif
+  17dc29d3ef2d45ef825f754d15ffed68:
+    span:
+      start: 382295
+      end: 383254
+    imgnum: 382
+    reference: 24960382.tif
+  5607ca756e094905b33161b87efdee78:
+    span:
+      start: 383255
+      end: 384281
+    imgnum: 383
+    reference: 24960383.tif
+  281852c7e4544d0a965c5d78ccafe03e:
+    span:
+      start: 384282
+      end: 385283
+    imgnum: 384
+    reference: 24960384.tif
+  991153cad55d4c598d562867faa5cbfd:
+    span:
+      start: 385284
+      end: 386274
+    imgnum: 385
+    reference: 24960385.tif
+  fea18b95d6c749a0968ec37b48186f9c:
+    span:
+      start: 386275
+      end: 387315
+    imgnum: 386
+    reference: 24960386.tif
+  8ed6faadf499408991591f9b5fdc41ee:
+    span:
+      start: 387316
+      end: 388322
+    imgnum: 387
+    reference: 24960387.tif
+  cc1e62b529a54bb2a15db51d20d0eecc:
+    span:
+      start: 388323
+      end: 389309
+    imgnum: 388
+    reference: 24960388.tif
+  7a99e0d478ae4d418354295b987a8b33:
+    span:
+      start: 389310
+      end: 390317
+    imgnum: 389
+    reference: 24960389.tif
+  635781baf2a14f92873717088beba998:
+    span:
+      start: 390318
+      end: 391329
+    imgnum: 390
+    reference: 24960390.tif
+  5f61dafff7084a3c9be6297d0a0328ec:
+    span:
+      start: 391330
+      end: 392380
+    imgnum: 391
+    reference: 24960391.tif
+  36df460f7c234b86803e6568e4f0bb0c:
+    span:
+      start: 392381
+      end: 393416
+    imgnum: 392
+    reference: 24960392.tif
+  7264ce63658e4d06af082d1f2d11a095:
+    span:
+      start: 393417
+      end: 394423
+    imgnum: 393
+    reference: 24960393.tif
+  a093537b088749968f694b38f746bab8:
+    span:
+      start: 394424
+      end: 395411
+    imgnum: 394
+    reference: 24960394.tif
+  5d2e44b11c9c4ac6b5da1e604aecb7ba:
+    span:
+      start: 395412
+      end: 396435
+    imgnum: 395
+    reference: 24960395.tif
+  5a19021520334e28a7f2d13fc86e8b12:
+    span:
+      start: 396436
+      end: 397453
+    imgnum: 396
+    reference: 24960396.tif
+  7dfdb4d5f8a842549b0032cc7bff7915:
+    span:
+      start: 397454
+      end: 398416
+    imgnum: 397
+    reference: 24960397.tif
+  1bd929540449441a8c6708fd0b093be0:
+    span:
+      start: 398417
+      end: 399437
+    imgnum: 398
+    reference: 24960398.tif
+  f4b8ee428e424584b63c8aafa7d14c6d:
+    span:
+      start: 399438
+      end: 400476
+    imgnum: 399
+    reference: 24960399.tif
+  f18f34447dc0497db506e2f0e991f8d3:
+    span:
+      start: 400477
+      end: 401533
+    imgnum: 400
+    reference: 24960400.tif
+  10e74c7ca0464a88ba3cc8e03fa77c88:
+    span:
+      start: 401534
+      end: 402531
+    imgnum: 401
+    reference: 24960401.tif
+  281df918a39f4d51b2fe9d0502bf1711:
+    span:
+      start: 402532
+      end: 403570
+    imgnum: 402
+    reference: 24960402.tif
+  0e68970e7f6a4189b29eb49bdd1deeaa:
+    span:
+      start: 403571
+      end: 404611
+    imgnum: 403
+    reference: 24960403.tif
+  2249de9db6274b3096f8ef369581c88c:
+    span:
+      start: 404612
+      end: 405648
+    imgnum: 404
+    reference: 24960404.tif
+  7996bd41c99a45bfb3ef2263d240c1ae:
+    span:
+      start: 405649
+      end: 406639
+    imgnum: 405
+    reference: 24960405.tif
+  329e39bb29e8476f9e9439c1dbee0e3d:
+    span:
+      start: 406640
+      end: 407655
+    imgnum: 406
+    reference: 24960406.tif
+  8f16f55265ff4a23b1ede700472366f5:
+    span:
+      start: 407656
+      end: 408673
+    imgnum: 407
+    reference: 24960407.tif
+  098945ff422846dc88a508c4e99d298a:
+    span:
+      start: 408674
+      end: 409753
+    imgnum: 408
+    reference: 24960408.tif
+  7a412769809f405bb62136707b61a48f:
+    span:
+      start: 409754
+      end: 410686
+    imgnum: 409
+    reference: 24960409.tif
+  dda74bf12d294938ba3d2351478be2c0:
+    span:
+      start: 410687
+      end: 411680
+    imgnum: 410
+    reference: 24960410.tif
+  9236c84d0c65412a9264c14e6d74fe2a:
+    span:
+      start: 411681
+      end: 412702
+    imgnum: 411
+    reference: 24960411.tif
+  f771b9ed379b4173aec9673520d3066e:
+    span:
+      start: 412703
+      end: 413789
+    imgnum: 412
+    reference: 24960412.tif
+  20f74221b12c4efd9fd71a05267dd760:
+    span:
+      start: 413790
+      end: 414835
+    imgnum: 413
+    reference: 24960413.tif
+  86b07fa105c249ed8039bec2db9509a5:
+    span:
+      start: 414836
+      end: 415884
+    imgnum: 414
+    reference: 24960414.tif
+  dc3391f3b9f64c13a501ac234b7297b2:
+    span:
+      start: 415885
+      end: 416947
+    imgnum: 415
+    reference: 24960415.tif
+  722c2fb5d205471c91c10896b8977299:
+    span:
+      start: 416948
+      end: 418041
+    imgnum: 416
+    reference: 24960416.tif
+  c06642d910df4b34ab026c27dd6a8c19:
+    span:
+      start: 418042
+      end: 419033
+    imgnum: 417
+    reference: 24960417.tif
+  4a90a3e8b90d4d5bad8f97acf3e8d136:
+    span:
+      start: 419034
+      end: 420076
+    imgnum: 418
+    reference: 24960418.tif
+  6f29d5666ce64aa3b05003acfcdc7e64:
+    span:
+      start: 420077
+      end: 421093
+    imgnum: 419
+    reference: 24960419.tif
+  d7157468985b4d26965758e215b60001:
+    span:
+      start: 421094
+      end: 422162
+    imgnum: 420
+    reference: 24960420.tif
+  d84a60ab2e18448c93735368a30387d5:
+    span:
+      start: 422163
+      end: 423162
+    imgnum: 421
+    reference: 24960421.tif
+  8268598b1ded4890971c2f18ce508ecc:
+    span:
+      start: 423163
+      end: 424180
+    imgnum: 422
+    reference: 24960422.tif
+  567e20263a7c41b3a7570a68f7377adb:
+    span:
+      start: 424181
+      end: 425151
+    imgnum: 423
+    reference: 24960423.tif
+  c33cc245180f42b5bcc565f08efbf620:
+    span:
+      start: 425152
+      end: 426146
+    imgnum: 424
+    reference: 24960424.tif
+  9ee1780d47a8491586b5a69f7504973a:
+    span:
+      start: 426147
+      end: 427102
+    imgnum: 425
+    reference: 24960425.tif
+  0982ab4ba07740bbb69e10cf02d467f6:
+    span:
+      start: 427103
+      end: 428104
+    imgnum: 426
+    reference: 24960426.tif
+  dee54f25276849bd91f02aed2677d23c:
+    span:
+      start: 428105
+      end: 429148
+    imgnum: 427
+    reference: 24960427.tif
+  f36695b74ad04cbc8a380a7c91b9b753:
+    span:
+      start: 429149
+      end: 430191
+    imgnum: 428
+    reference: 24960428.tif
+  cd656460189444d9bd01b6d7a97a1c08:
+    span:
+      start: 430192
+      end: 431197
+    imgnum: 429
+    reference: 24960429.tif
+  8c0b7344757c4e6ca47ed1db2d9e435e:
+    span:
+      start: 431198
+      end: 432182
+    imgnum: 430
+    reference: 24960430.tif
+  a4e554268b374cefb9c5c0c901d80ce7:
+    span:
+      start: 432183
+      end: 433194
+    imgnum: 431
+    reference: 24960431.tif
+  1be4368e7d8f4d9fa25e7f1ac6e8c83b:
+    span:
+      start: 433195
+      end: 434223
+    imgnum: 432
+    reference: 24960432.tif
+  7ec85efcb25f4612a6bfa0e7083c7e25:
+    span:
+      start: 434224
+      end: 435268
+    imgnum: 433
+    reference: 24960433.tif
+  b139d3bf37064b4e966ec3b96ef4975c:
+    span:
+      start: 435269
+      end: 436343
+    imgnum: 434
+    reference: 24960434.tif
+  ec99add5b81346a7bbf797dcf055c407:
+    span:
+      start: 436344
+      end: 437418
+    imgnum: 435
+    reference: 24960435.tif
+  f1cad97f2ee8458683fa7168a798a871:
+    span:
+      start: 437419
+      end: 438470
+    imgnum: 436
+    reference: 24960436.tif
+  2e7f148192424a2092e8aae68e91d6d9:
+    span:
+      start: 438471
+      end: 439519
+    imgnum: 437
+    reference: 24960437.tif
+  47ec82d432d147c08bd9654f0b92c77e:
+    span:
+      start: 439520
+      end: 440536
+    imgnum: 438
+    reference: 24960438.tif
+  87450e547d37407d9fbc829c57f5a827:
+    span:
+      start: 440537
+      end: 441579
+    imgnum: 439
+    reference: 24960439.tif
+  09ecb1fd0eac4a22b5ec09403fbf4bd8:
+    span:
+      start: 441580
+      end: 442647
+    imgnum: 440
+    reference: 24960440.tif
+  ffb7cb1d785344cb827b3345b8886198:
+    span:
+      start: 442648
+      end: 443711
+    imgnum: 441
+    reference: 24960441.tif
+  26d5152462bf4a8d958693f0e1f021a9:
+    span:
+      start: 443712
+      end: 444801
+    imgnum: 442
+    reference: 24960442.tif
+  f40877dbf72a49a1b4bfe4cf04fa649e:
+    span:
+      start: 444802
+      end: 445827
+    imgnum: 443
+    reference: 24960443.tif
+  5a820f2ec001404eba5d1ea6f7784da5:
+    span:
+      start: 445828
+      end: 446870
+    imgnum: 444
+    reference: 24960444.tif
+  b72667b0041a4154b3736a86e612296a:
+    span:
+      start: 446871
+      end: 447916
+    imgnum: 445
+    reference: 24960445.tif
+  a80052c976a144c6b646725b2446745c:
+    span:
+      start: 447917
+      end: 448987
+    imgnum: 446
+    reference: 24960446.tif
+  209b769c4bec4964928de31818605dd0:
+    span:
+      start: 448988
+      end: 450074
+    imgnum: 447
+    reference: 24960447.tif
+  25c106f1c8524ca09cd8597fde0a5a6d:
+    span:
+      start: 450075
+      end: 451136
+    imgnum: 448
+    reference: 24960448.tif
+  facba41e3d454faf9160c7868aac7bc8:
+    span:
+      start: 451137
+      end: 452194
+    imgnum: 449
+    reference: 24960449.tif
+  eef307eb46344ee285990afe35dd5f84:
+    span:
+      start: 452195
+      end: 453258
+    imgnum: 450
+    reference: 24960450.tif
+  f4fb0b916ff8470bbe439b2a1e70e37d:
+    span:
+      start: 453259
+      end: 454310
+    imgnum: 451
+    reference: 24960451.tif
+  78cdb0a95cb14e24aec77f6811f2a461:
+    span:
+      start: 454311
+      end: 455360
+    imgnum: 452
+    reference: 24960452.tif
+  84ce14f0e876457294c126ef37781194:
+    span:
+      start: 455361
+      end: 456437
+    imgnum: 453
+    reference: 24960453.tif
+  8aa6e03fa81e4043971e2572f0065d91:
+    span:
+      start: 456438
+      end: 457512
+    imgnum: 454
+    reference: 24960454.tif
+  908bdd0178314024a48fd781e57ce570:
+    span:
+      start: 457513
+      end: 458553
+    imgnum: 455
+    reference: 24960455.tif
+  c211db23bfc54fe2ac9923fed6e78009:
+    span:
+      start: 458554
+      end: 459612
+    imgnum: 456
+    reference: 24960456.tif
+  d97d1373ee0f405195518cd57dd8acde:
+    span:
+      start: 459613
+      end: 460681
+    imgnum: 457
+    reference: 24960457.tif
+  e42b59d98d1744d5b6ffbfc6f67b0c64:
+    span:
+      start: 460682
+      end: 461741
+    imgnum: 458
+    reference: 24960458.tif
+  9e4758d7c39e46bda6a128d3f12c5fc3:
+    span:
+      start: 461742
+      end: 462780
+    imgnum: 459
+    reference: 24960459.tif
+  597d79da960849b08706f9d4acaa033b:
+    span:
+      start: 462781
+      end: 463828
+    imgnum: 460
+    reference: 24960460.tif
+  ca2bcd2fd981414fa8bc68f61a41e051:
+    span:
+      start: 463829
+      end: 464894
+    imgnum: 461
+    reference: 24960461.tif
+  5cca90b9c8c94405a7fe5f95cf5025ff:
+    span:
+      start: 464895
+      end: 465181
+    imgnum: 462
+    reference: 24960462.tif
+  3c3362f5f5324497b8288989f60a9622:
+    span:
+      start: 465182
+      end: 466206
+    imgnum: 463
+    reference: 24960463.tif
+  673adac3c7f94e2c98da08f677a1d74c:
+    span:
+      start: 466207
+      end: 467257
+    imgnum: 464
+    reference: 24960464.tif
+  824b54854c10448688d63569af9195be:
+    span:
+      start: 467258
+      end: 468291
+    imgnum: 465
+    reference: 24960465.tif
+  8dfbc5f9bac24f719ff4486005068de2:
+    span:
+      start: 468292
+      end: 469321
+    imgnum: 466
+    reference: 24960466.tif
+  6205db3975ce406897e56afa5d5035ad:
+    span:
+      start: 469322
+      end: 470334
+    imgnum: 467
+    reference: 24960467.tif
+  7704d202b8ce4925ac5607a4ac64a6bf:
+    span:
+      start: 470335
+      end: 471339
+    imgnum: 468
+    reference: 24960468.tif
+  14b22faaf9ef48529b4982a6f68db8ae:
+    span:
+      start: 471340
+      end: 472359
+    imgnum: 469
+    reference: 24960469.tif
+  547fbb1fe2dd48da89b326c7fa52031c:
+    span:
+      start: 472360
+      end: 473405
+    imgnum: 470
+    reference: 24960470.tif
+  7f99ea2d3927490d86822eea7c6c95f5:
+    span:
+      start: 473406
+      end: 474433
+    imgnum: 471
+    reference: 24960471.tif
+  3d23334e0b73406cb1c3cadcae679e41:
+    span:
+      start: 474434
+      end: 475428
+    imgnum: 472
+    reference: 24960472.tif
+  9f3ead10c2d647e7b0bf2e622ea1f8c6:
+    span:
+      start: 475429
+      end: 476431
+    imgnum: 473
+    reference: 24960473.tif
+  7ba24c44d8d54c48b1a9bfe0710776fe:
+    span:
+      start: 476432
+      end: 477444
+    imgnum: 474
+    reference: 24960474.tif
+  fff3c5b0b6e94704a88a9ea291c136a1:
+    span:
+      start: 477445
+      end: 478417
+    imgnum: 475
+    reference: 24960475.tif
+  94b21387628042ba84b41112670ae88f:
+    span:
+      start: 478418
+      end: 479409
+    imgnum: 476
+    reference: 24960476.tif
+  7745666c72fc4e90ab4065110c2da6e0:
+    span:
+      start: 479410
+      end: 480403
+    imgnum: 477
+    reference: 24960477.tif
+  c0c145dc66f44a52b86b065cfdf7aa41:
+    span:
+      start: 480404
+      end: 481404
+    imgnum: 478
+    reference: 24960478.tif
+  5144f667ef094768b73d3cf2034d1426:
+    span:
+      start: 481405
+      end: 482349
+    imgnum: 479
+    reference: 24960479.tif
+  e89ff4f0da5e4655a28aac2b4e2116e1:
+    span:
+      start: 482350
+      end: 483297
+    imgnum: 480
+    reference: 24960480.tif
+  da65760651a74f8f8bb701807209f01c:
+    span:
+      start: 483298
+      end: 484323
+    imgnum: 481
+    reference: 24960481.tif
+  ec92173638f24d308eaffff9d124f283:
+    span:
+      start: 484324
+      end: 485405
+    imgnum: 482
+    reference: 24960482.tif
+  c2c12da220d943aebfd6dd86c5a8dd99:
+    span:
+      start: 485406
+      end: 486463
+    imgnum: 483
+    reference: 24960483.tif
+  674f5f1d7c134feb96befc57e6d6e456:
+    span:
+      start: 486464
+      end: 487525
+    imgnum: 484
+    reference: 24960484.tif
+  d7036bc57cf04f3fa0bf54a9d28ad801:
+    span:
+      start: 487526
+      end: 488542
+    imgnum: 485
+    reference: 24960485.tif
+  bfe8bce72550413bb1ff00ee30f82883:
+    span:
+      start: 488543
+      end: 489574
+    imgnum: 486
+    reference: 24960486.tif
+  25accb47cd604b818cb3578467179ba0:
+    span:
+      start: 489575
+      end: 490595
+    imgnum: 487
+    reference: 24960487.tif
+  9dd451c9ade54ac08cd14b1150317981:
+    span:
+      start: 490596
+      end: 491677
+    imgnum: 488
+    reference: 24960488.tif
+  afc4e3fa56be41be860bd28435dac309:
+    span:
+      start: 491678
+      end: 492726
+    imgnum: 489
+    reference: 24960489.tif
+  1b025a6deb584aee937945dba08bf7b9:
+    span:
+      start: 492727
+      end: 493753
+    imgnum: 490
+    reference: 24960490.tif
+  55a9b4470c8b4021ae827e4bf62a3447:
+    span:
+      start: 493754
+      end: 494818
+    imgnum: 491
+    reference: 24960491.tif
+  614644929a96468bbcda58dfde38b137:
+    span:
+      start: 494819
+      end: 495846
+    imgnum: 492
+    reference: 24960492.tif
+  cb6f7371bd5c408eb5d52b2aac83739c:
+    span:
+      start: 495847
+      end: 496882
+    imgnum: 493
+    reference: 24960493.tif
+  d0d7400e82b44370959d21015fa23316:
+    span:
+      start: 496883
+      end: 497932
+    imgnum: 494
+    reference: 24960494.tif
+  d67a871854dc4a86b8fd6ff54f9537ff:
+    span:
+      start: 497933
+      end: 498977
+    imgnum: 495
+    reference: 24960495.tif
+  b4c1d3dc7797407491b54ed07a898b44:
+    span:
+      start: 498978
+      end: 500011
+    imgnum: 496
+    reference: 24960496.tif
+  2faaedc7288940c28bf9547b756dd706:
+    span:
+      start: 500012
+      end: 501045
+    imgnum: 497
+    reference: 24960497.tif
+  2e15c41315834c11920ce04ea4d6025d:
+    span:
+      start: 501046
+      end: 502085
+    imgnum: 498
+    reference: 24960498.tif
+  a60b600532ce42949bd73b015c9505ba:
+    span:
+      start: 502086
+      end: 503133
+    imgnum: 499
+    reference: 24960499.tif
+  b277ba56ba0a461fa9a4c890ac96ed99:
+    span:
+      start: 503134
+      end: 504180
+    imgnum: 500
+    reference: 24960500.tif
+  6ce0462e5fd341e8a201fcdfd817fdc1:
+    span:
+      start: 504181
+      end: 505172
+    imgnum: 501
+    reference: 24960501.tif
+  5c1352de23c3403bb7aca65e91c058da:
+    span:
+      start: 505173
+      end: 506187
+    imgnum: 502
+    reference: 24960502.tif
+  78a4c4725da840808ed2d2f549be5054:
+    span:
+      start: 506188
+      end: 507179
+    imgnum: 503
+    reference: 24960503.tif
+  7f8dbc3180aa4f7688ead470a0ef4cbf:
+    span:
+      start: 507180
+      end: 508215
+    imgnum: 504
+    reference: 24960504.tif
+  beb75ac281294dbb841a915946b4f052:
+    span:
+      start: 508216
+      end: 509205
+    imgnum: 505
+    reference: 24960505.tif
+  a5c82ddde71a43228a4d087680fc5f59:
+    span:
+      start: 509206
+      end: 510245
+    imgnum: 506
+    reference: 24960506.tif
+  a890f5fdd09b4ee0a08b6f06adb426a8:
+    span:
+      start: 510246
+      end: 511261
+    imgnum: 507
+    reference: 24960507.tif
+  6428c2db6ebf41bfaefae54e3b792d5f:
+    span:
+      start: 511262
+      end: 512279
+    imgnum: 508
+    reference: 24960508.tif
+  5575776d3f9f40aebd7234b6c70acbc8:
+    span:
+      start: 512280
+      end: 513301
+    imgnum: 509
+    reference: 24960509.tif
+  93b9280ba6d9475e86d11b7ca21e53ba:
+    span:
+      start: 513302
+      end: 514339
+    imgnum: 510
+    reference: 24960510.tif
+  0e694561f4354749ad792b575449d3d8:
+    span:
+      start: 514340
+      end: 515336
+    imgnum: 511
+    reference: 24960511.tif
+  8bdfdd07ae294b4fbb7d3c92a8a15aae:
+    span:
+      start: 515337
+      end: 516338
+    imgnum: 512
+    reference: 24960512.tif
+  6c0cbb4b8f8d4c1595292ae0b389ab46:
+    span:
+      start: 516339
+      end: 517355
+    imgnum: 513
+    reference: 24960513.tif
+  eb411e049d1e446eb61a443a6623cd41:
+    span:
+      start: 517356
+      end: 518386
+    imgnum: 514
+    reference: 24960514.tif
+  26604e8a5a484b649b3296d55b1b969e:
+    span:
+      start: 518387
+      end: 519407
+    imgnum: 515
+    reference: 24960515.tif
+  88fab7d73d9f4495b3ea17ef79b8ab35:
+    span:
+      start: 519408
+      end: 520436
+    imgnum: 516
+    reference: 24960516.tif
+  2244b6bd70474de684095c0f3aaabaf0:
+    span:
+      start: 520437
+      end: 521469
+    imgnum: 517
+    reference: 24960517.tif
+  419533f7cf72409d96b93dabf9683e42:
+    span:
+      start: 521470
+      end: 522469
+    imgnum: 518
+    reference: 24960518.tif
+  45ccbef4d6bd48418aa741635b8e8a10:
+    span:
+      start: 522470
+      end: 523510
+    imgnum: 519
+    reference: 24960519.tif
+  1794d9d59c29480f925f9a96adbcede1:
+    span:
+      start: 523511
+      end: 524581
+    imgnum: 520
+    reference: 24960520.tif
+  86ef4875b8034d2aaf7d947523fa5f91:
+    span:
+      start: 524582
+      end: 525624
+    imgnum: 521
+    reference: 24960521.tif
+  5a1d79f8ea5f479e96e13b92e5ba75a4:
+    span:
+      start: 525625
+      end: 526662
+    imgnum: 522
+    reference: 24960522.tif
+  7405438b011c4e528c4bda34ddcd2ac3:
+    span:
+      start: 526663
+      end: 527652
+    imgnum: 523
+    reference: 24960523.tif
+  73fc7d14ac3447da8338f74efcd6e756:
+    span:
+      start: 527653
+      end: 528679
+    imgnum: 524
+    reference: 24960524.tif
+  3ed070a957b04c37ba9a6a759c5c4b1d:
+    span:
+      start: 528680
+      end: 529715
+    imgnum: 525
+    reference: 24960525.tif
+  dc2e6db8c484424986f5dc5a7af63379:
+    span:
+      start: 529716
+      end: 530732
+    imgnum: 526
+    reference: 24960526.tif
+  e81c0042a84040f0b94a83eb414607ca:
+    span:
+      start: 530733
+      end: 531773
+    imgnum: 527
+    reference: 24960527.tif
+  9e86af44238947729a61e7b9cd5177b0:
+    span:
+      start: 531774
+      end: 532841
+    imgnum: 528
+    reference: 24960528.tif
+  360a4a0834dd4740ba8b780e106aaff6:
+    span:
+      start: 532842
+      end: 533875
+    imgnum: 529
+    reference: 24960529.tif
+  371a12a56aeb43b981139538ce536e99:
+    span:
+      start: 533876
+      end: 534911
+    imgnum: 530
+    reference: 24960530.tif
+  003f223764e943f8bc573624721df0b9:
+    span:
+      start: 534912
+      end: 535956
+    imgnum: 531
+    reference: 24960531.tif
+  2aee6a294b524538ba62625e51d6af1c:
+    span:
+      start: 535957
+      end: 536952
+    imgnum: 532
+    reference: 24960532.tif
+  a405c8b20f19413c85cc7610890c017c:
+    span:
+      start: 536953
+      end: 537964
+    imgnum: 533
+    reference: 24960533.tif
+  4033a5ef5c93438dadfd3c4e6a43c4d4:
+    span:
+      start: 537965
+      end: 538984
+    imgnum: 534
+    reference: 24960534.tif
+  72312eaa85d54c05848ae0831a625641:
+    span:
+      start: 538985
+      end: 539998
+    imgnum: 535
+    reference: 24960535.tif
+  757a6a2073054a5bbae810deaa0165a7:
+    span:
+      start: 539999
+      end: 540999
+    imgnum: 536
+    reference: 24960536.tif
+  eb6ad07f98d14ba4aa0ca0eb7b17ce8f:
+    span:
+      start: 541000
+      end: 542027
+    imgnum: 537
+    reference: 24960537.tif
+  acb475d41c3e4135b87b6c0a0d4ee88f:
+    span:
+      start: 542028
+      end: 543079
+    imgnum: 538
+    reference: 24960538.tif
+  aed4d131be5547679389f0768f63711a:
+    span:
+      start: 543080
+      end: 544098
+    imgnum: 539
+    reference: 24960539.tif
+  eed74859af5f4915a1c9d653ac9fb703:
+    span:
+      start: 544099
+      end: 545127
+    imgnum: 540
+    reference: 24960540.tif
+  dcc914bf48a14bf1a2ededf287a58bb6:
+    span:
+      start: 545128
+      end: 546163
+    imgnum: 541
+    reference: 24960541.tif
+  c19f8783cf1e471e9fb0a4d2b0cd5109:
+    span:
+      start: 546164
+      end: 547221
+    imgnum: 542
+    reference: 24960542.tif
+  42a011cbb00c4fb5bdb17d1219d8db41:
+    span:
+      start: 547222
+      end: 548278
+    imgnum: 543
+    reference: 24960543.tif
+  9be47af25107444cbd7b8bc0bf6254a7:
+    span:
+      start: 548279
+      end: 549362
+    imgnum: 544
+    reference: 24960544.tif
+  5f81954829844121b2eb9c5f2e0326e1:
+    span:
+      start: 549363
+      end: 550426
+    imgnum: 545
+    reference: 24960545.tif
+  fe694c0d4b8d4d8a9e7d9cd7ad6d9423:
+    span:
+      start: 550427
+      end: 551478
+    imgnum: 546
+    reference: 24960546.tif
+  f7202bf20c22438b9eae65373a06c2bb:
+    span:
+      start: 551479
+      end: 552534
+    imgnum: 547
+    reference: 24960547.tif
+  fa2b9f9539a2430488d4c8cffb5671ca:
+    span:
+      start: 552535
+      end: 553594
+    imgnum: 548
+    reference: 24960548.tif
+  07452a10ea984504adf4f5716bcea30b:
+    span:
+      start: 553595
+      end: 554636
+    imgnum: 549
+    reference: 24960549.tif
+  b254c73c486e41fbaca39833a5b89041:
+    span:
+      start: 554637
+      end: 555716
+    imgnum: 550
+    reference: 24960550.tif
+  db814adee5ee41118a06741382b57980:
+    span:
+      start: 555717
+      end: 556729
+    imgnum: 551
+    reference: 24960551.tif
+  57d7bf44c2434490bd7d4418be379f05:
+    span:
+      start: 556730
+      end: 557800
+    imgnum: 552
+    reference: 24960552.tif
+  d4c6508f88e947c48b6ecc528ade125e:
+    span:
+      start: 557801
+      end: 558839
+    imgnum: 553
+    reference: 24960553.tif
+  27fa7adb59234ad8b10dd50016c33f82:
+    span:
+      start: 558840
+      end: 559895
+    imgnum: 554
+    reference: 24960554.tif
+  e28c4e4b54aa4810972b59422dadc6b2:
+    span:
+      start: 559896
+      end: 560973
+    imgnum: 555
+    reference: 24960555.tif
+  4de675e5a3744a569cc0c0e1ab700c34:
+    span:
+      start: 560974
+      end: 562087
+    imgnum: 556
+    reference: 24960556.tif
+  cee9413855ef4ae2ad1ec731c423763f:
+    span:
+      start: 562088
+      end: 563107
+    imgnum: 557
+    reference: 24960557.tif
+  6e0bee4daba64d1c962b158e973970a7:
+    span:
+      start: 563108
+      end: 564165
+    imgnum: 558
+    reference: 24960558.tif
+  3effbcecd4774f809a510b6f121601f4:
+    span:
+      start: 564166
+      end: 565205
+    imgnum: 559
+    reference: 24960559.tif
+  c7b463db939648409918e527cf3d8c74:
+    span:
+      start: 565206
+      end: 566259
+    imgnum: 560
+    reference: 24960560.tif
+  77baf28478b14938aaf0b28227b7d0cd:
+    span:
+      start: 566260
+      end: 567270
+    imgnum: 561
+    reference: 24960561.tif
+  7306ac94d608457fb45a22aaf9f6d953:
+    span:
+      start: 567271
+      end: 568296
+    imgnum: 562
+    reference: 24960562.tif
+  7a0287c0dfd646efbddd98ea53b09c3e:
+    span:
+      start: 568297
+      end: 569332
+    imgnum: 563
+    reference: 24960563.tif
+  056909132c5147949d997444d07bd147:
+    span:
+      start: 569333
+      end: 570331
+    imgnum: 564
+    reference: 24960564.tif
+  ad48acc932054d58975712030bf21531:
+    span:
+      start: 570332
+      end: 571357
+    imgnum: 565
+    reference: 24960565.tif
+  e157b4b9e5d3431188ca44447e349501:
+    span:
+      start: 571358
+      end: 572425
+    imgnum: 566
+    reference: 24960566.tif
+  3b6ca0d81faa453bb4c8fef075926717:
+    span:
+      start: 572426
+      end: 573427
+    imgnum: 567
+    reference: 24960567.tif
+  0a189782cf88415781c7e08853ec4aaf:
+    span:
+      start: 573428
+      end: 574477
+    imgnum: 568
+    reference: 24960568.tif
+  80251661c7ed43e09846035bf2ba32fa:
+    span:
+      start: 574478
+      end: 575500
+    imgnum: 569
+    reference: 24960569.tif
+  87679e20e29a4d37a77bee3744113405:
+    span:
+      start: 575501
+      end: 576610
+    imgnum: 570
+    reference: 24960570.tif
+  fef1cc3548cd490690b922edfd8076d5:
+    span:
+      start: 576611
+      end: 577639
+    imgnum: 571
+    reference: 24960571.tif
+  21a0a250dba34c999b84d8a0f7fc9e0d:
+    span:
+      start: 577640
+      end: 578665
+    imgnum: 572
+    reference: 24960572.tif
+  60c6213a47164df4a9575b20d8d9de9f:
+    span:
+      start: 578666
+      end: 579661
+    imgnum: 573
+    reference: 24960573.tif
+  8e72206e17c446caabd5fc40afc919de:
+    span:
+      start: 579662
+      end: 580681
+    imgnum: 574
+    reference: 24960574.tif
+  afd6eb450d7443c28c321f823974aa24:
+    span:
+      start: 580682
+      end: 581684
+    imgnum: 575
+    reference: 24960575.tif
+  db64ea8a9cf1432aba1bae5caf56c5e9:
+    span:
+      start: 581685
+      end: 582707
+    imgnum: 576
+    reference: 24960576.tif
+  bea8f6a687174262a2d52fd35cf7b09b:
+    span:
+      start: 582708
+      end: 583713
+    imgnum: 577
+    reference: 24960577.tif
+  b143d344a34e4b0c8bc1dbed549debe7:
+    span:
+      start: 583714
+      end: 584751
+    imgnum: 578
+    reference: 24960578.tif
+  822ccc1f0887412eb11512de30be9bb2:
+    span:
+      start: 584752
+      end: 585756
+    imgnum: 579
+    reference: 24960579.tif
+  bbd98a286d9a49a38f806763949d6fe3:
+    span:
+      start: 585757
+      end: 586768
+    imgnum: 580
+    reference: 24960580.tif
+  6cec018703c34f35b0567a8f2998ae24:
+    span:
+      start: 586769
+      end: 587791
+    imgnum: 581
+    reference: 24960581.tif
+  df069eabd9af4855ad9dbd44948d19ae:
+    span:
+      start: 587792
+      end: 588876
+    imgnum: 582
+    reference: 24960582.tif
+  7b4fa6c96118458bbf157358af9cd054:
+    span:
+      start: 588877
+      end: 589908
+    imgnum: 583
+    reference: 24960583.tif
+  fae93b7122134540b3b107146f085d1d:
+    span:
+      start: 589909
+      end: 590935
+    imgnum: 584
+    reference: 24960584.tif
+  bb47f597558040e2aff45fea3b3e3cea:
+    span:
+      start: 590936
+      end: 591911
+    imgnum: 585
+    reference: 24960585.tif
+  eb38c0a839e94c6ea806e57d6d41b3ca:
+    span:
+      start: 591912
+      end: 592939
+    imgnum: 586
+    reference: 24960586.tif
+  12d552a61f3143799bf49935a4d1ed35:
+    span:
+      start: 592940
+      end: 593926
+    imgnum: 587
+    reference: 24960587.tif
+  f30db2b55c8640d5b7f68d3fd2761bcf:
+    span:
+      start: 593927
+      end: 594961
+    imgnum: 588
+    reference: 24960588.tif
+  d82c1c7f3bb34b9993088185a00bf139:
+    span:
+      start: 594962
+      end: 595978
+    imgnum: 589
+    reference: 24960589.tif
+  862f9acea246427ca067356701fb162a:
+    span:
+      start: 595979
+      end: 597019
+    imgnum: 590
+    reference: 24960590.tif
+  f9066a2918e647a7822d3bfb2a7852fc:
+    span:
+      start: 597020
+      end: 598039
+    imgnum: 591
+    reference: 24960591.tif
+  82c7961a94f44eaea22a9974adec03a8:
+    span:
+      start: 598040
+      end: 599089
+    imgnum: 592
+    reference: 24960592.tif
+  68364a7561ad4b26a3d782dd4e89d615:
+    span:
+      start: 599090
+      end: 600112
+    imgnum: 593
+    reference: 24960593.tif
+  ce69e88b46414289838ff5260715f08d:
+    span:
+      start: 600113
+      end: 601150
+    imgnum: 594
+    reference: 24960594.tif
+  c5189e6acdec447ab310e4a8a66daf7b:
+    span:
+      start: 601151
+      end: 602156
+    imgnum: 595
+    reference: 24960595.tif
+  2987c8900fb84df4a188e90551b29b68:
+    span:
+      start: 602157
+      end: 603189
+    imgnum: 596
+    reference: 24960596.tif
+  eb7fe150a8554137b4e5052f86321430:
+    span:
+      start: 603190
+      end: 604210
+    imgnum: 597
+    reference: 24960597.tif
+  54187521b7354b938b464bca5fe9d171:
+    span:
+      start: 604211
+      end: 605235
+    imgnum: 598
+    reference: 24960598.tif
+  75f251cc21e14a55a79955968464e6f1:
+    span:
+      start: 605236
+      end: 606253
+    imgnum: 599
+    reference: 24960599.tif
+  44d36c36859248d4b6179c5811f92e3a:
+    span:
+      start: 606254
+      end: 607271
+    imgnum: 600
+    reference: 24960600.tif
+  ed011729150546cab4282aea40c03137:
+    span:
+      start: 607272
+      end: 608173
+    imgnum: 601
+    reference: 24960601.tif
+  8144940b0f024b82840779fcec2e054b:
+    span:
+      start: 608174
+      end: 609132
+    imgnum: 602
+    reference: 24960602.tif
+  9cc0803b84334bbebc9087562caadd3f:
+    span:
+      start: 609133
+      end: 610091
+    imgnum: 603
+    reference: 24960603.tif
+  80e722cca0ec4b4b990a724219cd6152:
+    span:
+      start: 610092
+      end: 611044
+    imgnum: 604
+    reference: 24960604.tif
+  a84e59c3785d48529a1ea93185545e10:
+    span:
+      start: 611045
+      end: 611979
+    imgnum: 605
+    reference: 24960605.tif
+  81e2044758c84f1b8fa97e1730cedf71:
+    span:
+      start: 611980
+      end: 612911
+    imgnum: 606
+    reference: 24960606.tif
+  bf04f04fd19040e595627822407040ee:
+    span:
+      start: 612912
+      end: 613973
+    imgnum: 607
+    reference: 24960607.tif
+  5cc949648647410b875ba282df340d69:
+    span:
+      start: 613974
+      end: 613974
+    imgnum: 608
+    reference: 24960608.tif
+  12f1cd7bc786484ba5b4838a35a2b4eb:
+    span:
+      start: 613975
+      end: 614100
+    imgnum: 609
+    reference: 24960609.tif
